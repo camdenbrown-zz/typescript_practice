@@ -58,3 +58,6 @@ userData = {
 
 //type alias
 type Complex = {data: number[], output: (all: boolean) => number[]};
+
+// Union types
+let myRealRealAge: string | number;
