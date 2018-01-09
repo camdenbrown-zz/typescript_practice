@@ -55,3 +55,6 @@ userData = {
     name: 'Hello',
     age: 22
 };
+
+//type alias
+type Complex = {data: number[], output: (all: boolean) => number[]};
