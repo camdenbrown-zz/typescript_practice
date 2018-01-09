@@ -41,3 +41,5 @@ function sayHello(): void {
   console.log('HELLO');
 }
 
+//function types
+let multiply: (firstNumber: number, secondNumber: number) => number;
